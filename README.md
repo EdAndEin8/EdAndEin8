@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EdAndEin8, french cybersecurity student.
+- 👋 Hi, I’m @EdAndEin8,  cybersecurity student.
 - 👀 I’m interested in cyber security OFFSEC.
 - 🌱 I’m currently learning Rust.
 - 📫 How to reach me ed.and.ein@proton.me (concerning github repositories,CTF).
